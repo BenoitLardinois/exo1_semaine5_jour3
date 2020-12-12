@@ -1,0 +1,9 @@
+en-au-ocker:
+  faker:
+    name:
+      # Existing faker field, new data
+      genre:
+        - Comedy
+        - Horror
+        - Action
+        
